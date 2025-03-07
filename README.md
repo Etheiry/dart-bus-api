@@ -9,3 +9,11 @@ Develop a **RESTful API** that processes, formats, and serves DART bus schedule 
    * Get details about specific bus stops
 3. Offline data support
    * downloadable data dumps for offline use
+
+
+
+Tech Stacks:
+  backend: python (fastapi)
+  database: postgreSQL
+  hosting: AWS
+ 
